@@ -14,6 +14,6 @@ setup(
     long_description=readme,
     author='Felix C. Pericică',
     author_email='pericicafelixcristian@gmail.com',
-    url='',
+    url='https://github.com/fpericica/CVApp.git',
     packages=find_packages(exclude=('tests'))
 )

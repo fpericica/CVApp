@@ -1,5 +1,5 @@
 """
-cv_data.py
+candidates_data.py
 
 This module provides a sample data structure representing a CV (Curriculum Vitae) with various fields and information.
 
