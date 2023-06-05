@@ -35,7 +35,7 @@ Accessing Data
 - Ensure you have Python and Flask installed, according to the requirements file.
 - Open your terminal or command prompt;
 - Navigate to the root directory of your Flask application;
-- Set the FLASK_APP environment variable to "server.py" by running the following command in the terminal:
+- Set the FLASK_APP environment variable to "server.py" by running the following command in the terminal (Windows Powershell):
      ```
      $env:FLASK_APP = "server.py"
      ```
